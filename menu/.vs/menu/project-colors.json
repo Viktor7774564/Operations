@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac02e9e7-78e2-434d-9fbb-9dc8db7f83db": {
+      "ProjectGuid": "ac02e9e7-78e2-434d-9fbb-9dc8db7f83db",
+      "DisplayName": "menu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

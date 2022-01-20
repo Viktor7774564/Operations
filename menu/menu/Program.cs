@@ -25,7 +25,7 @@ namespace menu
                     a = Convert.ToInt32(Console.ReadLine());
                     break;
                 case 2:
-                   
+                    b = Convert.ToInt32(Console.ReadLine());
                     break;
                 case 3:
                    

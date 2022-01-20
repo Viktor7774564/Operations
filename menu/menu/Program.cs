@@ -22,7 +22,7 @@ namespace menu
             switch (n) 
             {
                 case 1:
-                    
+                    a = Convert.ToInt32(Console.ReadLine());
                     break;
                 case 2:
                    

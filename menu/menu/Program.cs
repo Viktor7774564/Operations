@@ -34,7 +34,7 @@ namespace menu
                    
                     break;
                 case 5:
-                   
+                    Console.WriteLine(a * b);
                     break;
                 case 6:
                    

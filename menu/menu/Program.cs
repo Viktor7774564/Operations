@@ -37,7 +37,7 @@ namespace menu
                    
                     break;
                 case 6:
-                   
+                    Console.WriteLine(a / b);
                     break;
             }
         }
